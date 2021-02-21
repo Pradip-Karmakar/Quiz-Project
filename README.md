@@ -1,6 +1,8 @@
 # Quiz-Project
 ### Quiz-Project is designed for state level inter college compitition in S.S. Agrawal College 
 
+#### Quiz-Project has both Admin & Client side.
+
 * Technology Used
   * Front-end
     * HTML
