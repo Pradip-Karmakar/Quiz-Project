@@ -2,9 +2,13 @@
 ### Quiz-Project is designed for state level inter college compitition in S.S. Agrawal College 
 
 * Technology Used
-  * PHP
-  * HTML
-  * JavaScript
-  * CSS
+  * Front-end
+    * HTML
+    * JavaScript
+    * CSS
   * Framework
     * Bootstrap
+  * Back-end
+    * PHP
+  * Database
+    * MySQL
